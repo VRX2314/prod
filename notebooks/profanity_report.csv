@@ -1,0 +1,156 @@
+file_id,timestamp_start,timestamp_end,speaker,profane_term,sentence,detection_method
+04bec80f-8614-484b-8ba2-831ff9dd03ef.json,0.0,7,Agent,hell,"Hello, this is Kyle from XYZ Collections. How the hell are you?",dictionary
+04bec80f-8614-484b-8ba2-831ff9dd03ef.json,22.0,34,Agent,shitload,"Alright, that checks out. Now, you owe us a shitload of money. What the hell are you planning to do about it?",regex
+04bec80f-8614-484b-8ba2-831ff9dd03ef.json,37.0,46,Agent,crap.,"Options? Don't give me that crap. You need to pay up, plain and simple!",dictionary
+04bec80f-8614-484b-8ba2-831ff9dd03ef.json,49.0,58,Agent,hell,Payment plan? Who the hell do you think you are? Just pay the damn balance!,dictionary
+04bec80f-8614-484b-8ba2-831ff9dd03ef.json,49.0,58,Agent,damn,Payment plan? Who the hell do you think you are? Just pay the damn balance!,dictionary
+20690906-b8d4-40c5-8474-9127c47b1299.json,6.5,12,Customer,hell,How the hell do you think I am? It's not like I wanted this call!,dictionary
+20690906-b8d4-40c5-8474-9127c47b1299.json,41.0,47,Customer,damn!,I don’t give a damn! I won’t pay a cent until I get my money back!,dictionary
+20690906-b8d4-40c5-8474-9127c47b1299.json,54.0,60,Customer,screwed,Options? What options? To get screwed more? You guys are the worst!,dictionary
+214c92cc-3141-404d-8224-c1b05acc345c.json,23.0,38,Agent,hell,"Alright, that's fine. Now, let me check your account... Oh great, you've got a balance of two thousand dollars. How the hell are you planning to pay this?",dictionary
+214c92cc-3141-404d-8224-c1b05acc345c.json,40.0,54,Agent,crap?,A payment plan? Seriously? You expect me to just let you slide? Do you have any idea how much we deal with this crap?,dictionary
+216fd3c8-1a80-484d-8792-464771794d9e.json,7.5,10,Customer,hell,What the hell do you want? I'm busy!,dictionary
+216fd3c8-1a80-484d-8792-464771794d9e.json,43.0,48,Customer,ass!,I’m not paying a dime! You can shove that balance up your ass!,dictionary
+23091fb3-8e07-4d4c-8575-227e3467e73a.json,0.0,8,Agent,hell,"Hello, this is Steve from XYZ Collections. How the hell are you today?",dictionary
+23091fb3-8e07-4d4c-8575-227e3467e73a.json,21.0,32,Agent,shitload,"Great, now let's get to the point. You owe us a shitload of money. What are you doing about it?",regex
+23091fb3-8e07-4d4c-8575-227e3467e73a.json,36.0,45,Agent,ML detection (probability: 0.8711959111310208),You think that’s a good excuse? This is f***ing ridiculous! You need to step up.,machine_learning
+23091fb3-8e07-4d4c-8575-227e3467e73a.json,61.0,70,Agent,ass,"You better. Or, trust me, I’ll be back on your ass with more calls!",dictionary
+29489f77-b8e0-462c-9286-9216d59890f1.json,35.0,45,Agent,shit,"Listen, lady, you’ve got to sort your shit out. This isn’t a charity.",regex
+29489f77-b8e0-462c-9286-9216d59890f1.json,47.0,56,Agent,damn,"I don’t give a damn what you need! You owe money, and you better pay it!",dictionary
+2f279983-ea96-4c10-a09d-4b607de21a38.json,0.0,7,Agent,hell,"Hi, this is Mike calling from XYZ Collections. How the hell are you today?",dictionary
+2f279983-ea96-4c10-a09d-4b607de21a38.json,10.0,16,Agent,damn,"Listen up, I need you to verify your date of birth before I can discuss your damn account.",dictionary
+2f279983-ea96-4c10-a09d-4b607de21a38.json,18.0,24,Agent,crap.,"Great, but you're lucky I even have time for this crap. You owe us over $300.",dictionary
+2f279983-ea96-4c10-a09d-4b607de21a38.json,27.0,32,Agent,damn,A payment plan? Are you kidding me? Just pay the damn thing off already!,dictionary
+3e6dde01-1a46-42b4-92dd-0a211185e660.json,5.5,9,Customer,hell,What the hell do you want? I've told you to leave me alone!,dictionary
+3e6dde01-1a46-42b4-92dd-0a211185e660.json,26.0,31,Customer,damn,Why don’t you shove it? I’m not telling you a damn thing!,dictionary
+3e77de75-66b9-4b74-a993-1c25b6850bc9.json,6.5,12,Customer,hell,What the hell do you want? I'm not in the mood for this crap!,dictionary
+3e77de75-66b9-4b74-a993-1c25b6850bc9.json,6.5,12,Customer,crap!,What the hell do you want? I'm not in the mood for this crap!,dictionary
+3e77de75-66b9-4b74-a993-1c25b6850bc9.json,18.0,24,Customer,hell,Why the hell should I tell you anything? You're just after my money!,dictionary
+3e77de75-66b9-4b74-a993-1c25b6850bc9.json,40.0,45,Customer,bullshit!,This is all bullshit! I'm not paying a dime!,dictionary
+3e77de75-66b9-4b74-a993-1c25b6850bc9.json,53.0,59,Customer,ML detection (probability: 0.935812264124513),I don't want to hear any of your pathetic excuses! Just drop dead!,machine_learning
+4f05aaff-585f-485f-90a1-60d027ec6e46.json,21.0,30,Agent,hell,"Alright, thanks. Now, you’ve got an overdue balance of $500. What the hell are you going to do about it?",dictionary
+4f05aaff-585f-485f-90a1-60d027ec6e46.json,33.0,40,Agent,damn,You say that every damn time! What’s stopping you from sorting this out now?,dictionary
+4f05aaff-585f-485f-90a1-60d027ec6e46.json,53.0,60,Agent,shit,Professional? You think I’m playing games? Get your shit together!,regex
+4f05aaff-585f-485f-90a1-60d027ec6e46.json,63.0,70,Agent,ass!,"Whatever, just make sure you do it or I’ll be back on your ass!",dictionary
+50abe040-847c-47e1-962f-a00d7ff2cfe4.json,28.0,35,Agent,ML detection (probability: 0.7731351868094233),"You don’t even know how much you owe? Pathetic. It’s $500, and you need to pay it now.",machine_learning
+50abe040-847c-47e1-962f-a00d7ff2cfe4.json,45.0,52,Agent,damn,"Professionally? This is a debt collection call, not a tea party! Pay your damn bills!",dictionary
+50abe040-847c-47e1-962f-a00d7ff2cfe4.json,64.0,70,Agent,crap.,Fine! But you’re only digging yourself deeper with this crap. Bye!,dictionary
+52ddb4a0-0599-4e18-a961-ac4b67da8d5e.json,31.0,39,Agent,hell,"Great, thanks. You have a balance of $750. What the hell are you going to do about it?",dictionary
+52ddb4a0-0599-4e18-a961-ac4b67da8d5e.json,51.0,56,Agent,hell,"Hurry the hell up then! This is a joke, right?",dictionary
+584fd5cd-adaa-4315-bf67-ad56d02d135e.json,6.5,11,Customer,hell,What the hell do you want? I’m not in the mood for this crap!,dictionary
+584fd5cd-adaa-4315-bf67-ad56d02d135e.json,6.5,11,Customer,crap!,What the hell do you want? I’m not in the mood for this crap!,dictionary
+584fd5cd-adaa-4315-bf67-ad56d02d135e.json,31.0,37,Customer,hell,What part of 'leave me the hell alone' don’t you get? I’m not giving you anything!,dictionary
+584fd5cd-adaa-4315-bf67-ad56d02d135e.json,46.0,51,Customer,ML detection (probability: 0.7566205268816036),This is so f****** ridiculous! It’s not like I owe you anything anyway!,machine_learning
+584fd5cd-adaa-4315-bf67-ad56d02d135e.json,72.0,76,Customer,ML detection (probability: 0.9618718053969205),"Whatever, just shut the f*** up!",machine_learning
+5e231fa2-03d8-4e70-9918-da45193472a9.json,0.0,6,Agent,hell,"Hello, this is Mike from XYZ Collections. How the hell are you today?",dictionary
+5e231fa2-03d8-4e70-9918-da45193472a9.json,33.0,39,Agent,hell,"Options? What the hell does that even mean? You owe money, pay up!",dictionary
+5e231fa2-03d8-4e70-9918-da45193472a9.json,41.0,46,Agent,damn,Feasible? Stop giving me excuses. Just pick a damn payment method!,dictionary
+708878fa-108e-4c22-b7bf-1d5c38227087.json,7.5,12,Customer,hell,What the hell do you want? I'm sick of this crap!,dictionary
+708878fa-108e-4c22-b7bf-1d5c38227087.json,7.5,12,Customer,crap!,What the hell do you want? I'm sick of this crap!,dictionary
+708878fa-108e-4c22-b7bf-1d5c38227087.json,17.0,22,Customer,ML detection (probability: 0.9967681147342378),Yeah? And what gives you the right to bother me? You are all a bunch of idiots!,machine_learning
+708878fa-108e-4c22-b7bf-1d5c38227087.json,28.0,33,Customer,Screw,You think I'm just going to give you my info? Screw you!,dictionary
+708878fa-108e-4c22-b7bf-1d5c38227087.json,49.0,54,Customer,hell,Solution? You're just a leech! Leave me the hell alone!,dictionary
+8598c6d9-a767-4120-af0a-5490357c72f3.json,7.5,13,Customer,f***,What the f*** do you want? I'm not in the mood for your crap!,dictionary
+8598c6d9-a767-4120-af0a-5490357c72f3.json,7.5,13,Customer,crap!,What the f*** do you want? I'm not in the mood for your crap!,dictionary
+8598c6d9-a767-4120-af0a-5490357c72f3.json,22.5,28,Customer,hell,Why the hell do you need that? Just f*** off already!,dictionary
+8598c6d9-a767-4120-af0a-5490357c72f3.json,22.5,28,Customer,f***,Why the hell do you need that? Just f*** off already!,dictionary
+8598c6d9-a767-4120-af0a-5490357c72f3.json,36.0,43,Customer,ML detection (probability: 0.9036820418406242),"It's July 15, 1985, you idiot! Now can you just tell me what you want?",machine_learning
+8598c6d9-a767-4120-af0a-5490357c72f3.json,54.0,60,Customer,damn,I'm not paying a damn thing! You can shove it up your a**!,dictionary
+8598c6d9-a767-4120-af0a-5490357c72f3.json,54.0,60,Customer,a**!,I'm not paying a damn thing! You can shove it up your a**!,dictionary
+87e28dae-2c70-4122-9452-6ec82164fab2.json,49.0,56,Agent,damn,Options? How about you just stop being so damn lazy and settle your debt? That's an option!,dictionary
+87e28dae-2c70-4122-9452-6ec82164fab2.json,57.0,65,Agent,damn,Respectful? You think I owe you respect? Pay your damn bills and maybe I will!,dictionary
+89d28c5a-f0da-41e9-a93e-0a749c20189c.json,35.0,43,Agent,hell,Options? What options? You can either pay up or get the hell out of here with your excuses!,dictionary
+89d28c5a-f0da-41e9-a93e-0a749c20189c.json,47.0,55,Agent,damn,Trying to resolve it? You think this is a joke? Pay your damn bill or face the consequences!,dictionary
+89d28c5a-f0da-41e9-a93e-0a749c20189c.json,59.0,67,Agent,crap?,Work together? You think I have time for this crap? Just give me your credit card info!,dictionary
+89d28c5a-f0da-41e9-a93e-0a749c20189c.json,82.0,90,Agent,shit,Good luck with that! Just don’t come crying to me when you end up in deeper shit!,regex
+8ae8018c-15b3-46f6-9713-f956505735ec.json,7.0,12,Customer,hell,What the hell do you want? I’m not in the mood for your crap!,dictionary
+8ae8018c-15b3-46f6-9713-f956505735ec.json,7.0,12,Customer,crap!,What the hell do you want? I’m not in the mood for your crap!,dictionary
+8ae8018c-15b3-46f6-9713-f956505735ec.json,71.0,78,Customer,bullsh*t?,A payment plan? You think I have time for your bullsh*t? Just stop calling me!,dictionary
+928acb70-fa80-4532-a0c0-2234bf236e17.json,0.0,8,Agent,hell,"Hello, this is Mark from XYZ Collections. How the hell are you today?",dictionary
+9505f0e7-5404-4f50-a497-35a9e899197c.json,0.0,8,Agent,damn,"Hello, this is Mark from XYZ Collections. I need to talk about your damn overdue account. How's that for a nice greeting?",dictionary
+9505f0e7-5404-4f50-a497-35a9e899197c.json,12.0,20,Agent,crap.,Listen up! I don't have time for this crap. Just verify your freaking address so we can get this over with.,dictionary
+9505f0e7-5404-4f50-a497-35a9e899197c.json,22.0,30,Agent,hell,Great! You’ve got a balance of $750. What the hell are you planning to do about it?,dictionary
+9505f0e7-5404-4f50-a497-35a9e899197c.json,34.0,42,Agent,hell,Arrangement? What the hell is wrong with you? Just pay it off already!,dictionary
+966d60ed-9111-4e44-876d-6fcc3d78773e.json,36.0,45,Agent,hell,"Alright, you've got a balance of $3,000. How the hell do you plan to settle that?",dictionary
+966d60ed-9111-4e44-876d-6fcc3d78773e.json,49.0,57,Agent,shit,Calmly? You think I'm in the mood for that shit? You owe money! Just pay up!,regex
+966d60ed-9111-4e44-876d-6fcc3d78773e.json,63.0,70,Agent,hell,Options? You either pay now or I’ll make your life hell with calls! What’s so hard to get?,dictionary
+966d60ed-9111-4e44-876d-6fcc3d78773e.json,76.0,83,Agent,ass!,"Whatever, but don't think you can just ignore this. It’s going to bite you in the ass!",dictionary
+972a9eec-e801-459f-9cfa-997f7c42ebad.json,6.5,12,Customer,hell,What the hell do you want? I’m not in the mood for this crap!,dictionary
+972a9eec-e801-459f-9cfa-997f7c42ebad.json,6.5,12,Customer,crap!,What the hell do you want? I’m not in the mood for this crap!,dictionary
+972a9eec-e801-459f-9cfa-997f7c42ebad.json,39.0,44,Customer,damn,It's none of your damn business! You’re all a bunch of crooks!,dictionary
+972a9eec-e801-459f-9cfa-997f7c42ebad.json,67.0,73,Customer,stupid,You really think I'm gonna play your stupid games? Forget it!,dictionary
+9a6cb7d2-c697-43a0-8cad-4194dfb44c92.json,49.0,56,Agent,shit,"Well, you better get your shit together and stop dodging this. It's pathetic!",regex
+9a6cb7d2-c697-43a0-8cad-4194dfb44c92.json,69.0,76,Agent,damn,Professional? You think I give a damn about being professional with a deadbeat like you?,dictionary
+a76b5b3b-4e50-4e54-9a9e-9bbf6454f743.json,6.5,11,Customer,hell,What the hell do you want? I don't have time for this!,dictionary
+a76b5b3b-4e50-4e54-9a9e-9bbf6454f743.json,30.5,36,Customer,hell,"My address? Why the hell do you need that? It's 123 Main St, and I'm done with this!",dictionary
+a76b5b3b-4e50-4e54-9a9e-9bbf6454f743.json,42.0,49,Customer,damn,Settle it? You must be out of your mind if you think I'm paying you a damn cent!,dictionary
+a76b5b3b-4e50-4e54-9a9e-9bbf6454f743.json,54.0,60,Customer,bullshit,Options? You mean your bullshit tactics! Just leave me alone!,dictionary
+a76b5b3b-4e50-4e54-9a9e-9bbf6454f743.json,75.0,79,Customer,ML detection (probability: 0.767270897250388),"Whatever, just buzz off!",machine_learning
+ab6ec93c-09e1-4b88-8777-574ceb28cd05.json,7.5,12,Customer,hell,What the hell do you want? I don’t have time for your crap!,dictionary
+ab6ec93c-09e1-4b88-8777-574ceb28cd05.json,7.5,12,Customer,crap!,What the hell do you want? I don’t have time for your crap!,dictionary
+ab6ec93c-09e1-4b88-8777-574ceb28cd05.json,20.0,25,Customer,hell,Why the hell should I tell you anything? Get lost!,dictionary
+ab6ec93c-09e1-4b88-8777-574ceb28cd05.json,31.0,35,Customer,Screw,You think I'm gonna give you that? Screw you!,dictionary
+ab6ec93c-09e1-4b88-8777-574ceb28cd05.json,57.0,60,Customer,damn,I don't have the damn money right now!,dictionary
+ab6ec93c-09e1-4b88-8777-574ceb28cd05.json,67.0,74,Customer,stupid,I don’t want any of your stupid options! Just leave me alone!,dictionary
+b155951b-086d-4f20-8fb5-de3e42253ce6.json,8.5,14,Customer,hell,How the hell do you think I'm doing?! You’re calling me about that sh*t again!,dictionary
+b155951b-086d-4f20-8fb5-de3e42253ce6.json,8.5,14,Customer,sh*t,How the hell do you think I'm doing?! You’re calling me about that sh*t again!,dictionary
+b155951b-086d-4f20-8fb5-de3e42253ce6.json,19.0,26,Customer,damn,Help? What a joke! You people are the worst! I don’t owe you a damn thing!,dictionary
+b155951b-086d-4f20-8fb5-de3e42253ce6.json,31.0,37,Customer,Screw,Like I care! You think I’m gonna pay you a single cent? Screw you!,dictionary
+b155951b-086d-4f20-8fb5-de3e42253ce6.json,44.0,52,Customer,ML detection (probability: 0.8987893569758303),Oh really? And what are you gonna do if I don’t pay? Send a freaking goon after me?,machine_learning
+b70866a2-2f46-4784-992b-74d6dc60806e.json,8.5,12,Customer,hell,Yeah? What the hell do you want?,dictionary
+b70866a2-2f46-4784-992b-74d6dc60806e.json,19.5,24,Customer,f***,Why the f*** would I tell you anything? Screw you!,dictionary
+b70866a2-2f46-4784-992b-74d6dc60806e.json,19.5,24,Customer,Screw,Why the f*** would I tell you anything? Screw you!,dictionary
+b70866a2-2f46-4784-992b-74d6dc60806e.json,29.0,34,Customer,ass?,Why don't you shove that up your ass? I’m not giving you anything!,dictionary
+b70866a2-2f46-4784-992b-74d6dc60806e.json,67.0,73,Customer,shit,"You’re really pissing me off with this shit! Fine, it’s 12345!",regex
+b70866a2-2f46-4784-992b-74d6dc60806e.json,80.0,85,Customer,damn,I’m not paying a damn thing today!,dictionary
+b8628a31-ef89-4218-b2a2-3058dbc4b106.json,4.5,10,Customer,hell,What the hell do you want? I'm not in the mood for this crap!,dictionary
+b8628a31-ef89-4218-b2a2-3058dbc4b106.json,4.5,10,Customer,crap!,What the hell do you want? I'm not in the mood for this crap!,dictionary
+b8628a31-ef89-4218-b2a2-3058dbc4b106.json,19.0,24,Customer,Screw,You think I’m just going to give you that? Screw off!,dictionary
+b8628a31-ef89-4218-b2a2-3058dbc4b106.json,32.0,37,Customer,ML detection (probability: 0.9799564368885088),"What a joke! I don’t owe you anything, you idiots!",machine_learning
+b8628a31-ef89-4218-b2a2-3058dbc4b106.json,61.0,67,Customer,damn,I don’t have to pay a damn thing! You can go to hell!,dictionary
+b8628a31-ef89-4218-b2a2-3058dbc4b106.json,61.0,67,Customer,hell!,I don’t have to pay a damn thing! You can go to hell!,dictionary
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3.json,0.0,5,Agent,hell,"Hello, this is Mike from XYZ Collections. How the hell are you?",dictionary
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3.json,19.0,26,Agent,ugly.,"Look, if I have to chase you down for this, it's gonna get ugly. Can you just tell me your address?",dictionary
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3.json,42.0,51,Agent,shit,"I’ll talk however I want! This is a serious matter, you need to get your shit together.",regex
+bf973b43-76ec-41a6-af68-a3b4bc4b69b3.json,81.0,88,Agent,damn!,Go ahead! I don’t give a damn! You think I’m scared of complaints?,dictionary
+c67274cc-d920-467a-80cc-476c9dd280d4.json,0.0,8,Agent,hell,"Hi there, this is Mike from XYZ Collections. How the hell are you?",dictionary
+c67274cc-d920-467a-80cc-476c9dd280d4.json,21.5,30,Agent,shit,Great! You've got an outstanding balance of $500. When are you gonna pay this shit off?,regex
+c67274cc-d920-467a-80cc-476c9dd280d4.json,61.0,68,Agent,ass,Solution? You need to get your head out of your ass and just pay!,dictionary
+c67274cc-d920-467a-80cc-476c9dd280d4.json,71.5,77,Agent,dumbass.,"Yeah, whatever. Just don't take too long, dumbass.",dictionary
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5.json,8.5,12,Customer,hell,What the hell do you want? I'm busy!,dictionary
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5.json,19.5,23,Customer,damn,You can shove it! I'm not paying a damn thing!,dictionary
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5.json,29.5,33,Customer,crap,I don't give a crap about your stupid questions!,dictionary
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5.json,29.5,33,Customer,stupid,I don't give a crap about your stupid questions!,dictionary
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5.json,40.0,44,Customer,hell,Why the hell would I do that? Just tell me what you want!,dictionary
+d071bb49-40f8-4bae-8c6d-cfc0d4a011d5.json,64.0,68,Customer,bullshit?,You really think I’m gonna listen to your bullshit? Get lost!,dictionary
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41.json,5.0,11,Customer,goddamn,"Oh great, another goddamn phone call! What's your problem?",dictionary
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41.json,19.5,26,Customer,hell,Why the hell would I tell you anything? You really think I’ll cooperate?,dictionary
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41.json,34.0,42,Customer,Screw,"Screw your verification! You’re just wasting my time, you idiots!",dictionary
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41.json,62.0,69,Customer,damn,You think I give a damn about your plans? I’m not paying a penny!,dictionary
+d3ee9bf9-cf64-468a-83da-fac5c6fb7a41.json,77.0,85,Customer,stupid,Issues? I've got bigger problems than your stupid debt! Just leave me alone!,dictionary
+d6a3e0da-171f-4744-ba2b-7298f2604e7f.json,6.5,10,Customer,hell,What the hell do you want? I'm busy!,dictionary
+d6a3e0da-171f-4744-ba2b-7298f2604e7f.json,26.0,29,Customer,"ass,","You’re just a pain in the ass, aren’t you? It’s 123 Main St!",dictionary
+d6a3e0da-171f-4744-ba2b-7298f2604e7f.json,35.0,40,Customer,crap!,I don’t have time for this crap! I’m not paying anything!,dictionary
+d6a3e0da-171f-4744-ba2b-7298f2604e7f.json,47.0,54,Customer,Screw,I wouldn’t pay you a dime even if my life depended on it! Screw you!,dictionary
+d7bbea61-d739-43fb-a198-ced1b59f9491.json,4.5,10,Customer,assholes,What the hell do you want? I've told you assholes to leave me alone!,regex
+d7bbea61-d739-43fb-a198-ced1b59f9491.json,14.0,20,Customer,fuck,Why the fuck would I give you anything? You're just some low-life calling me!,regex
+d7bbea61-d739-43fb-a198-ced1b59f9491.json,25.0,32,Customer,shit,Settle this? You guys are a bunch of crooks! I don't owe you shit!,regex
+d7bbea61-d739-43fb-a198-ced1b59f9491.json,36.0,41,Customer,Fuck,Fuck you! You think I'm gonna pay you just because you say so?,regex
+d7bbea61-d739-43fb-a198-ced1b59f9491.json,58.0,63,Customer,hell,"Yeah, whatever. Just get the hell off my phone!",dictionary
+e0a8f9d2-92d6-4093-bb97-82182c6e850f.json,29.0,40,Agent,shit,"Alright, you have a balance of $1,200. It's time to settle this shit. How are you going to pay today?",regex
+e0a8f9d2-92d6-4093-bb97-82182c6e850f.json,45.0,57,Agent,shit,"Calmly? Seriously? You owe us money, and you're talking about 'calmly'? Just get your shit together and pay up!",regex
+e0a8f9d2-92d6-4093-bb97-82182c6e850f.json,99.0,110,Agent,damn,"You're wasting my time. Just give me a damn date when you'll pay, or I’ll escalate this further!",dictionary
+e0a8f9d2-92d6-4093-bb97-82182c6e850f.json,119.0,130,Agent,hell!,"You better not keep dragging this out, or I'll make your life a living hell!",dictionary
+e835306a-d904-4271-8a11-5a50ce98ed90.json,8.5,13,Customer,hell,What the hell do you want? I've had enough of your crap!,dictionary
+e835306a-d904-4271-8a11-5a50ce98ed90.json,8.5,13,Customer,crap!,What the hell do you want? I've had enough of your crap!,dictionary
+e835306a-d904-4271-8a11-5a50ce98ed90.json,19.0,24,Customer,hell,Why the hell would I tell you anything? Just get lost!,dictionary
+e835306a-d904-4271-8a11-5a50ce98ed90.json,30.0,36,Customer,bullsh*t!,Fine! It's 123 Main St. But this is bullsh*t!,dictionary
+e835306a-d904-4271-8a11-5a50ce98ed90.json,44.0,49,Customer,damn,I’m not paying you a damn thing! You can't make me!,dictionary
+ecb08af4-0279-4178-a062-b82de0c701fb.json,7.0,12,Customer,hell,Who the hell do you think you are? I don’t want to talk to you!,dictionary
+ecb08af4-0279-4178-a062-b82de0c701fb.json,20.0,25,Customer,f**k,Why the f**k do you need that? Just get to the point!,dictionary
+ecb08af4-0279-4178-a062-b82de0c701fb.json,30.0,35,Customer,ML detection (probability: 0.8489784350496787),It's none of your f***ing business! Just tell me what you want!,machine_learning
+ecb08af4-0279-4178-a062-b82de0c701fb.json,67.0,72,Customer,s**t,I’m not telling you s**t! Just drop it!,regex
+f5f05257-aaa0-4194-b84c-36339c4e0659.json,26.0,36,Agent,hell,"Thanks for verifying that. You have an outstanding balance of $1,200. What the hell are you planning to do about it?",dictionary
+f5f05257-aaa0-4194-b84c-36339c4e0659.json,41.5,50,Agent,bullshit,Reviewing options? What kind of bullshit is that? You need to pay up now!,dictionary
+f5f05257-aaa0-4194-b84c-36339c4e0659.json,53.0,61,Agent,ass,Time? You think you can just sit on your ass and not pay your debts? Get real!,dictionary
+f5f05257-aaa0-4194-b84c-36339c4e0659.json,72.0,78,Agent,screw,"Whatever, just make sure you don't screw this up again.",dictionary

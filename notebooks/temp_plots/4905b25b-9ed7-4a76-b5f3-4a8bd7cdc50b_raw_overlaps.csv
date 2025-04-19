@@ -1,0 +1,8 @@
+overlap_start,overlap_end,overlap_duration,agent_stime,agent_etime,customer_stime,customer_etime,initiator
+9,10,1,9,19,6.5,10,Agent
+22,23,1,22,31,20.0,23,Agent
+35,36,1,35,48,32.0,36,Agent
+47,48,1,35,48,47.0,52,Customer
+51,52,1,51,62,47.0,52,Agent
+65,66,1,65,75,63.0,66,Agent
+77,78,1,77,86,76.0,78,Agent
